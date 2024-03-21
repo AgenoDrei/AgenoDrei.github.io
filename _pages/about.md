@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: "Traversing the path of brownian motion since 1995"
+subtitle: *"Traversing the path of brownian motion since 1995"*
 
 profile:
   align: right
@@ -20,5 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 I finished my Master in Computer Science with a focus on Life Science Informatics and Computer Vision in Bonn and am now completing my studies in Human Medicine at [Maastricht University](https://curriculum.maastrichtuniversity.nl/education/master/master-medicine). 
 
-My goal is to research medical applications in diagnosis, prognosis and treatments for recent advances in image and video analysis. Currently, I support the [Working Group Wintergerst](https://www.ukbonn.de/experimentelle-ophthalmologie/ag-wintergerst/) as a research assistant smartphone-assisted diabetic retinopathy detection and Small Incision Catarat Surgery (SICS) analysis. Previously, I have worked in various projects for IBM Germany, Fraunhofer Institutes and the German Aerospace Center (DLR) as a software engineer. 
+My goal is to research medical applications in diagnosis, prognosis and treatments for recent advances in image and video analysis. Currently, I support the [Working Group Wintergerst](https://www.ukbonn.de/experimentelle-ophthalmologie/ag-wintergerst/) as a research assistant smartphone-assisted Diabetic Retinopathy detection and Small Incision Cataract Surgery (SICS) analysis. 
 
+Previously, I have worked in various projects for IBM Germany, Fraunhofer Institutes and the German Aerospace Center (DLR) as a software engineer. In the past I also worked as tutor for software engineering, programming in various languages, machine learning and computer visualizations. 
+
+Feel free to reach out to me with questions.
