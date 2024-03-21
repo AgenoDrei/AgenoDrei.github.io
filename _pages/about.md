@@ -25,3 +25,6 @@ My goal is to research medical applications in diagnosis, prognosis and treatmen
 Previously, I have worked in various projects for IBM Germany, Fraunhofer Institutes and the German Aerospace Center (DLR) as a software engineer. In the past I also worked as tutor for software engineering, programming in various languages, machine learning and computer visualizations. 
 
 Feel free to reach out to me with questions.
+<br/><br/>
+<br/><br/>
+<br/><br/>
