@@ -26,5 +26,3 @@ Previously, I have worked in various projects for IBM Germany, Fraunhofer Instit
 
 Feel free to reach out to me with questions.
 <br/><br/>
-<br/><br/>
-<br/><br/>
