@@ -105,7 +105,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to contact me per mail.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,17 +124,17 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Research Profile # blog_name will be displayed in your blog page
-blog_description: Providing information about my research.
-permalink: /blog/:year/:title/
+#blog_name: Research Profile # blog_name will be displayed in your blog page
+#blog_description: Providing information about my research.
+#permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+#pagination:
+#  enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+#related_blog_posts:
+#  enabled: true
+#  max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -166,25 +166,25 @@ external_sources:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /news/:path/
-  projects:
-    output: false
-    permalink: /projects/:path/
+#collections:
+#  news:
+#    defaults:
+#      layout: post
+#    output: false
+#    permalink: /news/:path/
+#  projects:
+#    output: false
+#    permalink: /projects/:path/
 
-announcements:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+#announcements:
+#  enabled: false
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#  limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: false
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
