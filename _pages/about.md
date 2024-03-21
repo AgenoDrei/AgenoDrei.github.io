@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: *"Traversing the path of brownian motion since 1995"*
+subtitle: "Traversing the path of brownian motion since 1995"
 
 profile:
   align: right
