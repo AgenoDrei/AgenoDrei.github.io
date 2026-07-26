@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Simon Mueller",
-    "label": "MSc, Researcher @ UKB, Medical student @ UM",
+    "label": "MD, PhD Candidate @ University Hospital Bonn",
     "image": "",
     "email": "s.mueller1995@gmail.com",
     "phone": "",
     "url": "",
-    "summary": "Data scientist/researcher at University Clinic Bonn with a focus on applying deep learning solutions for image and video to ophthalmic data sources (e.g. retina background) in the AG Wintergerst.\n Medical student pursuing a MD at the University of Maastricht (finished in 2026).",
+    "summary": "PhD candidate at University Hospital Bonn with a focus on applying deep learning solutions for image and video to ophthalmic data sources (e.g. retina background) in the AG Wintergerst.\n Holds an MD from Maastricht University (2026).",
     "location": {
       "countryCode": "NL",
       "address": "Netherlands"
@@ -22,10 +22,20 @@
   },
   "work": [
     {
+      "name": "University Hospital Bonn",
+      "position": "PhD Candidate",
+      "startDate": "2025-01-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "PhD research on attention-based analysis of high-resolution ophthalmic images and videos in the Working Group Wintergerst, focusing on smartphone-assisted Diabetic Retinopathy detection and Small Incision Cataract Surgery (SICS) analysis.",
+      "url": "https://www.ukbonn.de/experimentelle-ophthalmologie/ag-wintergerst/",
+      "location": "Bonn, Germany"
+    },
+    {
       "name": "University Clinic Bonn",
       "position": "Research Assistant",
       "startDate": "2019-09-30",
-      "endDate": "",
+      "endDate": "2024-12-31",
       "highlights": [],
       "summary": "Designing and implementing deep learning applications to predict disease (e.g. diabetic retinopathy or peripheral artery disease) from ophthalmic data. Conducting research and publishing paper in collaboration with hospitals in India and Nigeria.",
       "url": "https://www.linkedin.com/company/university-clinic-bonn/",
@@ -151,6 +161,15 @@
     }
   ],
   "education": [
+    {
+      "institution": "University of Bonn",
+      "area": "Medicine (Ophthalmology) - Learning what is relevant: Attention-based analysis of high-resolution ophthalmic images and videos",
+      "studyType": "PhD",
+      "startDate": "2025-01-31",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
     {
       "institution": "Maastricht University",
       "area": "Medicine",
