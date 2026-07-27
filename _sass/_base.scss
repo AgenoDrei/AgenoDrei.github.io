@@ -769,6 +769,21 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
+
+        a.code-link {
+          color: var(--global-card-bg-color);
+          background-color: var(--global-theme-color);
+          border-color: var(--global-theme-color);
+
+          i {
+            margin-right: 0.25rem;
+          }
+
+          &:hover {
+            color: var(--global-card-bg-color);
+            opacity: 0.85;
+          }
+        }
       }
 
       .badges {

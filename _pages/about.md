@@ -30,5 +30,5 @@ Previously, I have worked in various projects for IBM Germany, Fraunhofer Instit
 - Surgical video analysis
 - Translating computer vision research into clinical diagnosis, prognosis and treatment tools
 
-Feel free to reach out to me with questions.
+I'm always happy to hear from prospective students or potential collaborators, feel free to reach out.
 <br/><br/>
